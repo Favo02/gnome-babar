@@ -2,7 +2,7 @@
   "description": "Forked and personalized version of BaBar Task Bar by fthx (https://github.com/fthx/babar) by Favo02 (https://github.com/Favo02)", 
   "name": "BaBar Task Bar", 
   "shell-version": ["3.36", "3.38", "40"], 
-  "url": "https://github.com/fthx/babar", 
+  "url": "https://github.com/favo02/gnome-babar", 
   "uuid": "babar@favo02.github.com", 
   "version": 56
 }
