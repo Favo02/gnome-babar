@@ -2,6 +2,7 @@
 	BaBar
 	(c) Francois Thirioux 2021
 	Contributors: @fthx, @wooque, @frandieguez, @kenoh, @justperfection
+	Forked and personalized by: @favo02
 	License GPL v3
 */
 
