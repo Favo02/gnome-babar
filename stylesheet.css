@@ -39,16 +39,20 @@
 }
 
 .workspace-active-plain {
-  margin-left: 10px;
-  margin-right: 5px;
+  font-size: smaller;
+  padding: 2px 0px;
+  margin-left: 20px;
+  margin-right: 3px;
   background-color: rgba(0, 0, 0, 0);
   color: rgba(160, 0, 0, 1);
   border-radius: 5px;
 }
 
 .workspace-inactive-plain {
-  margin-left: 10px;
-  margin-right: 5px;
+  font-size: smaller;
+  padding: 2px 0px;
+  margin-left: 20px;
+  margin-right: 3px;
   background-color: rgba(0, 0, 0, 0);
   color: rgba(160, 0, 0, 0.5);
   border-radius: 5px;
