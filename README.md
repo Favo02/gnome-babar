@@ -1,8 +1,12 @@
-# BaBar
-GNOME Shell extension
+Forked and personalized (mostly in style) version of BaBar taskbar
 
-App grid, favorites, workspaces & tasks in top panel
+Original README:
 
-https://extensions.gnome.org/extension/4000/babar/
+> # BaBar
+> GNOME Shell extension
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/23138504/115955697-72373f00-a4f8-11eb-8bcb-059d920de888.gif)
+> App grid, favorites, workspaces & tasks in top panel
+
+> https://extensions.gnome.org/extension/4000/babar/
+
+> ![ezgif com-gif-maker](https://user-images.githubusercontent.com/23138504/115955697-72373f00-a4f8-11eb-8bcb-059d920de888.gif)
